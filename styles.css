@@ -71,12 +71,10 @@ body {
 }
 
 .avatar.male {
-    background-image: url('path-to-male-avatar.png');
     background-size: cover;
 }
 
 .avatar.female {
-    background-image: url('path-to-female-avatar.png');
     background-size: cover;
 }
 
